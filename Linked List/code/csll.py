@@ -15,7 +15,6 @@ def insertAtBegin(last, x):
     last.next = newNode
     return last
 
-def insertAtEnd()
 
 def printLL(last):
     if last is None:
